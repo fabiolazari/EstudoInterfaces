@@ -1,0 +1,6 @@
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\bin\Debug\EstudoInterfaces.exe.config
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\bin\Debug\EstudoInterfaces.exe
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\bin\Debug\EstudoInterfaces.pdb
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\obj\Debug\EstudoInterfaces.csprojAssemblyReference.cache
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\obj\Debug\EstudoInterfaces.exe
+C:\Users\Fábio Costa\source\repos\Estudos\EstudoInterfaces\EstudoInterfaces\obj\Debug\EstudoInterfaces.pdb
